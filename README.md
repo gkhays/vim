@@ -1,7 +1,7 @@
 # vim
 VIM configuration files
 
-```bash
+```viml
 colorscheme wombat
 
 set shiftwidth=4
